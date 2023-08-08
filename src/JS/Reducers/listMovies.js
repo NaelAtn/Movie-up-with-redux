@@ -18,7 +18,7 @@ const initialeState = {
         ,
         {
             id: 2,
-            title: "The Lobster",
+            title: "The Lobster 1",
             rate: 3,
             description:
                 "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.",
